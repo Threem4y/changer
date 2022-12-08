@@ -1,0 +1,15 @@
+D:\VS проекты\changer\changer\bin\Debug\net6.0\changer.exe
+D:\VS проекты\changer\changer\bin\Debug\net6.0\changer.deps.json
+D:\VS проекты\changer\changer\bin\Debug\net6.0\changer.runtimeconfig.json
+D:\VS проекты\changer\changer\bin\Debug\net6.0\changer.dll
+D:\VS проекты\changer\changer\bin\Debug\net6.0\changer.pdb
+D:\VS проекты\changer\changer\obj\Debug\net6.0\changer.csproj.AssemblyReference.cache
+D:\VS проекты\changer\changer\obj\Debug\net6.0\changer.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS проекты\changer\changer\obj\Debug\net6.0\changer.AssemblyInfoInputs.cache
+D:\VS проекты\changer\changer\obj\Debug\net6.0\changer.AssemblyInfo.cs
+D:\VS проекты\changer\changer\obj\Debug\net6.0\changer.csproj.CoreCompileInputs.cache
+D:\VS проекты\changer\changer\obj\Debug\net6.0\changer.dll
+D:\VS проекты\changer\changer\obj\Debug\net6.0\refint\changer.dll
+D:\VS проекты\changer\changer\obj\Debug\net6.0\changer.pdb
+D:\VS проекты\changer\changer\obj\Debug\net6.0\changer.genruntimeconfig.cache
+D:\VS проекты\changer\changer\obj\Debug\net6.0\ref\changer.dll
